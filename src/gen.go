@@ -1,4 +1,4 @@
-package tmpl
+package code
 
 import (
 	_ "embed"
